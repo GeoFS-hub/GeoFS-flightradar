@@ -15,7 +15,6 @@ UTC Screen url:https://geofs-flightradar.onrender.com
   <a href="https://github.com/seabus0316/GeoFS-flightradar/stargazers"><img src="https://img.shields.io/github/stars/seabus0316/GeoFS-flightradar.svg?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/seabus0316/GeoFS-flightradar/issues"><img src="https://img.shields.io/github/issues/seabus0316/GeoFS-flightradar.svg?style=for-the-badge" alt="Issues"></a>
   <a href="https://github.com/seabus0316/GeoFS-flightradar/network/members"><img src="https://img.shields.io/github/forks/seabus0316/GeoFS-flightradar.svg?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/seabus0316/GeoFS-flightradar/blob/main/LICENSE"><img src="https://img.shields.io/github/license/seabus0316/GeoFS-flightradar.svg?style=for-the-badge" alt="License"></a>
 </p>
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seabus0316/GeoFS-flightradar/)
