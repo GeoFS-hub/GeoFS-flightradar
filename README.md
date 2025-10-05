@@ -22,13 +22,6 @@ UTC Screen url:https://geofs-flightradar.onrender.com
 [![UTC SCREEN](https://img.shields.io/badge/UTC%20SCREEN-008B8B?style=for-the-badge&logo=google&logoColor=white)](https://geofs-flightradar.onrender.com/)
 
 
-</div>
-<p align="center">
-<p align="center">
-<a href="https://trendshift.io/repositories/14217" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14217" 
-alt="Alibaba-NLP%2FWebAgent | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-
 ## Star History
 
 <a href="https://www.star-history.com/#seabus0316/GeoFS-flightradar&Date">
