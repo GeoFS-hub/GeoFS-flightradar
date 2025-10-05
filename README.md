@@ -7,7 +7,7 @@ Just like the FlightRadar24 in real world
 # How to use?
 Install the user.js and It will send your position info to the atc screen
 
-UTC Screen url: https://geofs-flightradar.onrender.com
+ATC Screen url: https://geofs-flightradar.onrender.com
 
 <img width="614" height="339" alt="image" src="https://github.com/user-attachments/assets/30766924-7c7f-49b8-907e-8e2c598e1416" />
 
@@ -18,7 +18,7 @@ UTC Screen url: https://geofs-flightradar.onrender.com
 </p>
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seabus0316/GeoFS-flightradar/)
-[![UTC SCREEN](https://img.shields.io/badge/UTC%20SCREEN-008B8B?style=for-the-badge&logo=google&logoColor=white)](https://geofs-flightradar.onrender.com/)
+[![UTC SCREEN](https://img.shields.io/badge/ATC%20SCREEN-008B8B?style=for-the-badge&logo=google&logoColor=white)](https://geofs-flightradar.onrender.com/)
 
 
 ## Star History
